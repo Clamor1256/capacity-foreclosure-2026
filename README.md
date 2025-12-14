@@ -1,5 +1,3 @@
-# capacity-foreclosure-2026
-The Great Silicon Heist: How the Capacity Foreclosure Ate Your Future
 [readme.md](https://github.com/user-attachments/files/24153299/readme.md)
 
 # **The Great Silicon Heist: How the Capacity Foreclosure Ate Your Future**
