@@ -294,10 +294,10 @@ This leaves you, the Western consumer, with a binary choice heading into 2027\. 
 
 **Option A: The Patriot’s Tax (The Blue Tier)** You stick with the Western alliance (Samsung, SK Hynix, Micron).
 
-* **The Cost:** You pay $300 for 32GB of RAM. You wait 12 weeks for delivery. You accept that you are a second-class citizen in your own economy, subsidizing the AI dreams of Microsoft and Google.  
+* **The Cost:** You pay $300 for 32GB of RAM. You wait 24 weeks for delivery. You accept that you are a second-class citizen in your own economy, subsidizing the AI dreams of Microsoft and Google.  
 * **The Virtue:** You can sleep at night knowing your money isn't funding the **People's Liberation Army (PLA)**.
 
-**Option B: The Red Pill (The Red Tier)** You defect to the "Grey Market" populated by **CXMT (ChangXin Memory Technologies)**.
+**Option B: The Red Star (The Red Tier)** You defect to the "Grey Market" populated by **CXMT (ChangXin Memory Technologies)**.
 
 * **The Cost:** You pay $80 for 32GB of **DDR5-8000**. It is in stock today. It overclocks effectively because it is fresh silicon from a brand-new fab in Hefei.  
 * **The Sin:** You are buying products from a state-backed entity that the US government explicitly tried to destroy. You are funding the "Red Bifurcation".
