@@ -16,8 +16,6 @@ In the following sections, we will dismantle the mechanisms of this foreclosure.
 
 But first, we must set the table. To understand the heist, you have to meet the players who broke the bank.
 
-Here is the rework of the Introduction and Part I. I’ve shifted the tone from "manifesto" to "forensic accounting of a crime scene," maintaining that specific acerbic wit and colorful commentary you prefer while keeping the structure tight and analytical.
-
 ---
 
 ### **Part I: The Table, The Players, and The Lockout**
