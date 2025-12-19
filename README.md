@@ -1,4 +1,3 @@
-[The Great Silicon Heist - How Capacity Foreclosure Ate The Future.md](https://github.com/user-attachments/files/24263560/The.Great.Silicon.Heist.-.How.Capacity.Foreclosure.Ate.The.Future.md)
 ## The Great Silicon Heist \- How Capacity Foreclosure Ate The Future
 
 Stop looking for a conspiracy in a smoke-filled room to explain why your DRAM prices just doubled. Industrial conspiracies are fragile because people talk. This time **it is a rigid system of open incentives.**  What happened to the global semiconductor market is far more durable because it was done in public. It was signed in triplicate and cheered on by Wall Street.
@@ -218,19 +217,21 @@ Even if the trade wars ended tomorrow no CEO will build a multi-billion dollar d
 
 ---
 
-## Part V: The Red Bifurcation — The Dragon’s Upgrade
+## **Part V: The Red Bifurcation — The Dragon’s Upgrade**
 
-**V. The Parallel Market: "Hard Mode" Engineering** 
+If the capacity foreclosure was the "Heist," the split markets are the botched getaway. Western industrial policy operated on a single fatal assumption. We believed that by denying China access to "God Tier" tools like ASML’s EUV scanners, we would starve their industry into irrelevance.
 
-If the capacity foreclosure was the "Heist". The split markets are the botched getaway.
+The theory was simple. Without the best tools, Chinese engineering would wither, leaving the global market solely in the hands of the Western alliance. The reality is stark. We didn't starve them. We forced them to hit the gym.
 
-Western industrial policy operated on a single fatal assumption. We believed that by denying China access to "God Tier" tools like ASML’s EUV scanners we would starve their industry into irrelevance. The theory was simple. Without the best tools Chinese engineering would wither and leave the global market solely in the hands of the Western alliance.
+### **1\. The "Frankenstein" EUV: Hard Mode Realized**
 
-The reality is stark. We didn't starve them. We forced them to hit the gym.
+The most damning evidence of this policy failure arrived in December 2025\. For three years, Washington believed the "Great Wall of Lithography" would hold. That wall collapsed on December 18th when reports confirmed that Chinese engineers have successfully built an **EUV prototype using components scavenged from older ASML systems**. \[source \- [TrendForce.com](https://www.trendforce.com/news/2025/12/18/news-china-reportedly-builds-euv-prototype-using-older-asml-components-eyes-2028-chipmaking/)\]
 
-Austerity breeds innovation. Denied the "Easy Mode" of EUV lithography, Chinese engineers were forced to master the "Hard Mode" of Multi-Patterning\[cit \- TechInsights via [tomshardware.com](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-latest-mobile-is-chinas-most-advanced-process-node-to-date-despite-using-blacklisted-chipmaker-huawei-kirin-9030-mobile-soc-made-on-smic-n-3-process-but-cant-compete-with-5nm-nodes#:~:text=challenges%20rather%20than%20raw%20scaling,limits)\]. This involves running a wafer through an older machine three or four times to achieve the resolution of a single pass on a new machine. It is slow. It is difficult. It requires fanatical precision. But they mastered it. They didn't just survive the blockade. They optimized it. Now they are preparing to fill the massive void left by the Western retreat.
+This wasn't a standard R\&D project; it was industrial survivalism. The project was reportedly led by **former ASML engineers** who worked to reverse-engineer the forbidden light source. While the West waited for China to collapse, they scavenged the "scrap metal" of the previous generation to build a "Frankenstein" machine that bypasses the blockade entirely.
 
-### 1\. The Players: Know Your New Best Friends
+They are now eyeing **2028** for functional chipmaking. This destroys the Western timeline of "forever containment." The blockade didn't stop the tech; it just added a 3-year latency penalty while they built their own.
+
+### 2\. The Players: Know Your New Best Friends
 
 To understand the other side we must disambiguate the acronyms. The West tends to lump "China Chips" into one monolithic bucket but there are two distinct titans coming over the hill serving two different functions.
 
@@ -238,15 +239,15 @@ To understand the other side we must disambiguate the acronyms. The West tends t
 
 **CXMT (The "Chinese Samsung"):** Their job is to print memory. While SMIC grabs the headlines CXMT is the one that will end up in your house. While the Western Memory Triad (Samsung, SK Hynix, Micron) abandoned the consumer market to chase the high-margin AI gold rush ChangXin Memory Technologies (CXMT) moved in to squat in the empty building. They aren't just making legacy junk. They have successfully ramped up production of modern 17-nanometer DDR5 and LPDDR5X. These are the exact chips needed for the next generation of Androids and iPhones\[cit \- [tomshardware.com](https://www.tomshardware.com/pc-components/dram/chinas-banned-memory-maker-cxmt-unveils-surprising-new-chipmaking-capabilities-despite-crushing-us-export-restrictions-ddr5-8000-and-lpddr5x-10667-displayed#:~:text=CXMT%E2%80%99s%20DDR5%20chips,for%20further%20development.)\].
 
-### 2\. The IPO War Chest
+### 3\. The IPO War Chest
 
-The scariest number in the semiconductor world for 2026 isn't a clock speed. It is a valuation. CXMT is preparing for a **$42 billion IPO**. \[cit \- [scmp.com](https://www.scmp.com/tech/big-tech/article/3329798/chipmaker-cxmt-eyes-us42-billion-shanghai-listing-sources-say?module=top_story&pgtype=section#:~:text=Chinese%20memory%20chipmaker%20ChangXin%20Memory,sources%20briefed%20on%20the%20matter) [tomshardware.com](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-begins-producing-ddr5-memory-first-products-aimed-at-consumer-pcs#:~:text=CXMT%27s%20DDR5%20memory%20is%20believed,about%20which%20ICs%20were%20analyzed)\]
+The scariest number in the semiconductor world for 2026 isn't a clock speed. It is a valuation. CXMT is preparing for a **$42 billion IPO**. \[cit \- [reuters.com](https://www.reuters.com/world/asia-pacific/chipmaker-cxmt-plans-shanghai-listing-with-42-billion-valuation-sources-say-2025-10-21/) [tomshardware.com](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-begins-producing-ddr5-memory-first-products-aimed-at-consumer-pcs#:~:text=CXMT%27s%20DDR5%20memory%20is%20believed,about%20which%20ICs%20were%20analyzed)\]
 
 This is not paper money or a speculative bubble. It is a war chest being poured directly into concrete in Hefei and Shanghai. CXMT is set to double its output to **300,000 wafers per month** by early 2026\.
 
 They are executing the **"Ford Model T" Strategy**. While the Western Triad is paralyzed by the complexity of HBM and struggling with low yields\[cit [TrendForce.com](https://www.trendforce.com/news/2025/11/04/news-samsung-reportedly-to-deliver-hbm4-samples-to-nvidia-this-month-eyes-early-2026-validation/)\] CXMT is executing a volume play. They are mass-producing standard "good enough" memory that works in 99% of the world's devices \[cit \- [tomshardware.com](https://www.tomshardware.com/pc-components/dram/chinas-banned-memory-maker-cxmt-unveils-surprising-new-chipmaking-capabilities-despite-crushing-us-export-restrictions-ddr5-8000-and-lpddr5x-10667-displayed#:~:text=CXMT%E2%80%99s%20DDR5%20chips,for%20further%20development.)\]. They aren't trying to build a Ferrari. They are building the Honda Civic. And they are building millions of them.
 
-### 3\. The Vacuum: Why the World Will Turn To CXMT
+### 4\. The Vacuum: Why the World Will Turn To CXMT
 
  Physics applies to markets just as it does to nature. Nature abhors a vacuum.
 
@@ -258,16 +259,6 @@ Consider the 2027 plight of a washing machine manufacturer in Germany or a route
 * **The CXMT Offer:** If they call CXMT the chips are in stock **today** and the price is $2.50.
 
 The choice isn't ideological. It is **operational**. To keep assembly lines running global manufacturers are silently migrating to Chinese silicon. The "body" of the global economy—IoT devices, automotive, and consumer electronics—is being transplanted with Chinese organs.
-
-### 4\. The Permanent Divorce
-
-The most devastating cost isn't the lost market share. It is the destruction of commercial trust. Western policymakers operated under the arrogant assumption that if we ever relaxed the sanctions Chinese buyers would come running back to American suppliers.
-
-They aren't coming back.
-
-Even if the trade blocks were dropped tomorrow Chinese businesses now view Nvidia and Intel not as partners but as **liability risks**. Why build a multi-billion dollar data center on American silicon that can be turned into a paperweight by a generic PDF update from the Treasury Department?
-
-Companies like Alibaba and Tencent are aggressively pivoting to domestic silicon not because it is better but because it is **sovereign**. We blockaded Nvidia products to "protect" our lead and in doing so we sanctioned Nvidia out of the world's largest semiconductor market forever.
 
 ### **5\. The Final Irony: The "Communist" Capitalist** 
 
@@ -283,42 +274,79 @@ The West is busy building a "High Castle" for the AI gods unaware that the peasa
 
 #### **VI. The New Arithmetic: Surrender**
 
-As we head into late 2026 the specific numbers don't actually matter. Whether the Hyperscalers annexed 800,000 wafers or 900,000 wafers is a rounding error. The outcome is the same. The global semiconductor industry has been permanently partitioned.
+As we head into late 2026, the specific numbers don't actually matter. Whether the Hyperscalers annexed 800,000 wafers or 900,000 wafers is a rounding error. The outcome is the same. The global semiconductor industry has been permanently partitioned. The capacity allocated to the "Stargate" consortium is not coming back. Those production lines have been physically retooled for HBM4 and custom logic, cemented into the AI supply chain until at least 2028\.
 
-The capacity allocated to the "Stargate" consortium is not coming back. Those production lines have been physically retooled for HBM4 and custom logic. They are cemented into the AI supply chain until at least 2028\.
-
-For the rest of us fighting over the scraps, the landscape has shifted from shortage to "Demand Destruction". Entire product lines will be canceled. Server refreshes were delayed. Innovation in the hardware space ground to a halt because the silicon simply wasn't available. We are living in a “dry market” parched of resources and waiting for rain that the Memory Oligopoly gleefully refuses to send.
+For the rest of us fighting over the scraps, the landscape has shifted from shortage to "Demand Destruction." Entire product lines will be canceled. Server refreshes were delayed. Innovation in the hardware space ground to a halt because the silicon simply wasn't available. We are living in a “dry market” parched of resources and waiting for rain that the Memory Oligopoly gleefully refuses to send.
 
 #### **1\. The Behemoth’s “Mercy” (Greed in Disguise)**
 
-These three oligarchs are not your friends. They are notoriously cutthroat organizations with a history of price-fixing convictions and zero corporate morality \[cit [justice.gov](https://www.justice.gov/archive/opa/pr/2005/October/05_at_540.html)\]. They have now mutated into a "Cult of HBM" that is willing to cannibalize its own legacy(DRAM) to feed the Hyperscalers.
+These three oligarchs are not your friends. They are notoriously cutthroat organizations with a history of criminal price-fixing convictions and zero corporate morality \[cit 2006 \- [justice.gov](https://www.justice.gov/archive/opa/pr/2005/October/05_at_540.html)\]. They have now mutated into a "Cult of HBM" that is willing to cannibalize its own legacy (DRAM) to feed the Hyperscalers.
 
-Late 2025 corporate memos and guidance directly from Samsung \[cit [wccftech.com](https://wccftech.com/memory-shortages-are-so-terrible-that-samsung-is-shifting-hbm-production-towards-ddr5/#:~:text=,could%20push%20modules%20toward%20US%24500)\] state shifting “some” capacity back to standard DDR5 and Server RDIMM production. The financial press hailed this as relief. However, it is a trap. They aren't turning those lines back on to save you money. They are turning them on because the shortage is so acute that standard RAM is now more profitable than HBM. Ironic no?
+Late 2025 corporate memos and guidance directly from Samsung \[cit [wccftech.com](https://wccftech.com/memory-shortages-are-so-terrible-that-samsung-is-shifting-hbm-production-towards-ddr5/#:~:text=,could%20push%20modules%20toward%20US%24500)\] state shifting “some” capacity back to standard DDR5 and Server RDIMM production. The financial press hailed this as relief. However, it is a trap. They aren't turning those lines back on to save you money. They are turning them on because the shortage is so acute that standard RAM is now more profitable than HBM.
 
-HBM4 yields are notoriously low (\~50% \[cit [TrendForce.com](https://www.trendforce.com/news/2025/11/04/news-samsung-reportedly-to-deliver-hbm4-samples-to-nvidia-this-month-eyes-early-2026-validation/)\] ) which means half the wafer is trash. Server DDR5 is comparatively easy to make. Because supply was choked for two years the margins on a standard stick of RAM have exploded to 75%. The Memory Triad is flooding the channel with "Enterprise Class" memory at extortionate rates because they know corporate IT departments have no choice but to pay. They aren't saving the market. They are picking up the shrapnel of the demand they destroyed.
+Ironic no? HBM4 yields are notoriously low (\~50% \[cit [TrendForce.com](https://www.trendforce.com/news/2025/11/04/news-samsung-reportedly-to-deliver-hbm4-samples-to-nvidia-this-month-eyes-early-2026-validation/)\]) which means half the wafer is trash. Server DDR5 is comparatively easy to make. Because supply was choked for two years the margins on a standard stick of RAM have exploded to 75%. The Memory Triad is flooding the channel with "Enterprise Class" memory at extortionate rates because they know corporate IT departments have no choice but to pay. They aren't saving the market. They are picking up the shrapnel of the demand they destroyed.
 
-SK Hynix \[cit [techpowerup.com](https://www.techpowerup.com/344063/sk-hynix-forecasts-tight-memory-supply-lasting-through-2028)\] confirmed this on December 13, 2025\. They explicitly noted that commodity DRAM supply will remain starved to "minimize the risk of oversupply" through 2028\. They are bleeding us to fund their HBM4 specialization.
+SK Hynix \[cit [techpowerup.com](https://www.techpowerup.com/344063/sk-hynix-forecasts-tight-memory-supply-lasting-through-2028)\] confirmed this on December 13, 2025\. They explicitly noted that commodity DRAM supply will remain starved to "minimize the risk of oversupply" through 2028\. They are bleeding us to fund their HBM4 specialization.  Micron also laid out similar sentiments to limit risk of “oversupply” \[cit \- [TrendForce.com](https://www.trendforce.com/news/2025/12/18/news-micron-reveals-three-culprits-behind-memory-crunch-and-why-it-wont-ease-soon/)\]
 
-#### **2\. The Defector’s Dilemma**
+#### **2\. The Cigar Room: A Family Feud in Public**
 
-This leaves you with a binary choice heading into 2027\. The middle ground has long since  collapsed.
+If you need absolute proof that the "Free Market" is dead, look no further than **CES 2026**. In a "rare" and urgent summit, Samsung CEO TM Roh is scheduled to meet Micron CEO Sanjay Mehrotra to beg for chips \[cit \- [TrendForce.com](https://www.trendforce.com/news/2025/12/11/news-samsung-ceo-roh-reportedly-to-meet-micron-in-rare-ces-summit-over-tight-mobile-dram-supply/)\].
 
-**Option A: The Patriot Tier.** You stick with the Western cult (Samsung, SK Hynix, Micron). You accept the delays. You pay the surcharge. You accept that you are a second-class citizen in your own economy who is subsidizing the AI dreams of OpenAI and Google. The virtue is that you sleep at night knowing your money isn't funding the PRC.
+Think about the optics. Samsung, the world's largest memory maker, is meeting its primary competitor in a back room because **its own factories are too busy serving the Hyperscalers to build chips for its own Galaxy phones**. They are carving up the fiefdom in plain sight.
 
-**Option B: The Rising Red Star.** You defect to the Gray Market populated by CXMT. It is in stock today. It overclocks effectively because it is fresh silicon from a brand-new fab in Hefei. The sin is that you are funding the company the US government explicitly named “Entity” \[cit \- [federalregister.gov](https://www.federalregister.gov/documents/2024/05/03/2024-08735/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services#:~:text=ChangXin%20Memory%20Technologies%20\(-,CXMT,-\)%20or%20Yangtze%20Memory)\].
+The report notes this meeting was requested because "soaring prices have left contracts with Samsung's DS division and Micron unresolved" \[cit \- [TrendForce.com](https://www.trendforce.com/news/2025/12/11/news-samsung-ceo-roh-reportedly-to-meet-micron-in-rare-ces-summit-over-tight-mobile-dram-supply/)\]. Samsung's own mobile division is being starved by its semiconductor "family" because the internal transfer price isn't high enough. They have sold the family silver to Nvidia and Stargate, leaving their own kin to beg for scraps from Micron. And Micron? They just signaled the end of the line for the regular user, with reports indicating they are exiting the consumer SSD business entirely to focus on enterprise clients.
 
-Since the first bureaucrat drew a line in the sand, a smuggler has been waiting to cross it. History is a graveyard of prohibition: from the Volstead Act to the War on Drugs, the lesson is that you cannot legislate against physics, and you certainly cannot legislate against greed. When the regulatory friction burns hot enough to paralyze the supply chain, the Gray Market doesn't just appear. It thrives. At a 300% markup, the concept of a 'border' is dissolved by the universal solvent; pure profit. In this new environment, a stowed pallet of contraband DRAM isn't just hardware. *It becomes the densest form of currency on Earth*.
+#### **3\. The Defector’s Dilemma**
 
-### **3\. The Post Mortem: Gravity Always Wins**
+This leaves you with a binary choice heading into 2027\. The middle ground has long since collapsed.
 
-The Great Silicon Heist was a tactical masterstroke. The Hyperscalers secured their timelines and privatized the future of tech. They successfully passed the bill to you in the form of rising grid rates, doubled hardware costs and a frozen innovation cycle.
+* **Option A: The Patriot Tier.** You stick with the Western cult (Samsung, SK Hynix, Micron). You accept the delays. You pay the surcharge. You accept that you are a second-class citizen in your own economy who is subsidizing the AI dreams of OpenAI and Google. The virtue is that you sleep at night knowing your money isn't funding the PRC.  
+* **Option B: The Rising Red Star.** You defect to the Gray Market populated by CXMT. It is in stock today. It overclocks effectively because it is fresh silicon from a brand-new fab in Hefei. The sin is that you are funding the company the US government explicitly named “Entity” \[cit \- [federalregister.gov](https://www.federalregister.gov/documents/2024/05/03/2024-08735/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services#:~:text=ChangXin%20Memory%20Technologies%20\(-,CXMT,-\)%20or%20Yangtze%20Memory)\].
 
-But in their greed they committed the classic error of the monopolist. They assumed they could legislate against gravity.
+Since the first bureaucrat drew a line in the sand, a smuggler has been waiting to cross it. History is a graveyard of prohibition: from the Volstead Act to the War on Drugs, the lesson is that you cannot legislate against physics, and you certainly cannot legislate against greed. When the regulatory friction burns hot enough to paralyze the supply chain, the Gray Market doesn't just appear. It thrives. At a 300% markup, the concept of a 'border' is dissolved by the universal solvent; pure profit.
 
-They abandoned the low end to chase the high margin and in doing so they created a vacuum that physics demands must be filled. Free markets eventually crack when the supply limitation is entirely artificial. The blockade isn't held together by a lack of resources. It is held together by paper and political will. Both of those degrade over time.
+In this new environment, a stowed pallet of contraband DRAM isn't just hardware. It becomes the **densest form of currency on Earth**.
 
-We might have to wait a while. The next several quarters will be a "dry market" defined by scarcity and friction. But mother nature has never known defeat. By leaving the commodity market to rot, the Western Oligopoly allowed China to become the world’s default memory supplier. As CXMT prepares for its $42 Billion IPO they aren't just selling chips. They are selling an exit strategy from the Memory Oligopoly’s decades of abuse.
+#### **4\. The Post Mortem: Gravity Always Wins**
+
+The Great Silicon Heist was a tactical masterstroke. The Hyperscalers secured their timelines and privatized the future of tech. They successfully passed the bill to you in the form of rising grid rates, doubled hardware costs, and a frozen innovation cycle.
+
+But in their greed, they committed the classic error of the monopolist. They assumed they could legislate against gravity. They abandoned the low end to chase the high margin, and in doing so, they created a vacuum that physics demands must be filled. Free markets eventually crack when the supply limitation is entirely artificial. The blockade isn't held together by a lack of resources. It is held together by paper and political will. Both of those degrade over time.
+
+We might have to wait a while. The next several quarters will be a "dry market" defined by scarcity and friction. But mother nature has never known defeat. By leaving the commodity market to rot, the Western Oligopoly allowed China to become the world’s default memory supplier. As CXMT prepares for its $42 Billion IPO, they aren't just selling chips. They are selling an exit strategy from the Memory Oligopoly’s decades of abuse.
 
 The heist is over. The vault is empty. But the getaway car is on fire, the police are confused, and the only people selling fire extinguishers speak Mandarin.
 
-Welcome to FY2027. Make the best decision for *you*. 
+Welcome to FY2027. Make the best decision for **you**.
+
+**Source List & Bibliography**
+
+* **TrendForce: \[News\] Micron Reveals Three Culprits Behind Memory Crunch—and Why It Won't Ease Soon**  
+  * [**https://www.trendforce.com/news/2025/12/18/news-micron-reveals-three-culprits-behind-memory-crunch-and-why-it-wont-ease-soon/**](https://www.trendforce.com/news/2025/12/18/news-micron-reveals-three-culprits-behind-memory-crunch-and-why-it-wont-ease-soon/)  
+* **TrendForce: \[News\] China Reportedly Builds EUV Prototype Using Older ASML Components, Eyes 2028 Chipmaking**  
+  * [**https://www.trendforce.com/news/2025/12/18/news-china-reportedly-builds-euv-prototype-using-older-asml-components-eyes-2028-chipmaking/**](https://www.trendforce.com/news/2025/12/18/news-china-reportedly-builds-euv-prototype-using-older-asml-components-eyes-2028-chipmaking/)  
+* **TrendForce: \[News\] Samsung CEO Roh Reportedly to Meet Micron in Rare CES Meeting Over Tight Mobile DRAM Supply**  
+  * [**https://www.trendforce.com/news/2025/12/11/news-samsung-ceo-roh-reportedly-to-meet-micron-in-rare-ces-summit-over-tight-mobile-dram-supply/**](https://www.trendforce.com/news/2025/12/11/news-samsung-ceo-roh-reportedly-to-meet-micron-in-rare-ces-summit-over-tight-mobile-dram-supply/)  
+* **US Department of Justice: DRAM Manufacturers Agree to Plead Guilty to Price Fixing (Historical Context)**  
+  * [**https://www.justice.gov/archive/atr/public/press\_releases/2006/214897.htm**](https://www.google.com/search?q=https://www.justice.gov/archive/atr/public/press_releases/2006/214897.htm)  
+* **Federal Register: Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services (Section 5949 FY2023)**  
+  * **https://www.federalregister.gov/documents/2024/05/03/2024-08735/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services**  
+* **Min.news: OpenAI's Demand Equivalent to Samsung & SK Hynix Combined Capacity**  
+  * **https://min.news/en/tech/f4dc362cb258febfdb6b17876d81b922.html**  
+* **TechInsights: Global Wafer Starts & SMIC 5nm Analysis**  
+  * **https://library.techinsights.com/public/hg-asset/b55a6baf-1e1d-42e9-9c13-e4ada2e85283**  
+* **SemiAnalysis: CXMT Capacity Projections & EUV Economics**  
+  * **https://newsletter.semianalysis.com/p/huawei-ascend-production-ramp**  
+* **The National Interest: The Transformer Shortage & Grid Security**  
+  * **https://nationalinterest.org/blog/energy-world/the-little-monopoly-holding-back-the-clean-energy-transition**  
+* **36Kr: TSMC CoWoS Capacity Booking**  
+  * **https://eu.36kr.com/en/p/3580962946874242**  
+* **Tom's Hardware: SMIC 5nm Breakthroughs & EUV Power Consumption**  
+  * **https://www.tomshardware.com/tech-industry/semiconductors/huaweis-latest-mobile-is-chinas-most-advanced-process-node-to-date-despite-using-blacklisted-chipmaker-huawei-kirin-9030-mobile-soc-made-on-smic-n-3-process-but-cant-compete-with-5nm-nodes**  
+* **Reuters: CXMT IPO and Valuation**  
+  * **https://www.reuters.com/world/asia-pacific/chipmaker-cxmt-plans-shanghai-listing-with-42-billion-valuation-sources-say-2025-10-21/**  
+* **Wccftech: Samsung Capacity Shift Guidance**  
+  * **https://wccftech.com/memory-shortages-are-so-terrible-that-samsung-is-shifting-hbm-production-towards-ddr5/**  
+* **TechPowerUp: SK Hynix Supply Constraints & Strategy**  
+  * **https://www.techpowerup.com/344063/sk-hynix-forecasts-tight-memory-supply-lasting-through-2028**
+
