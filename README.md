@@ -112,15 +112,15 @@ This is effectively a massive **Call Option** on the future of compute. The Hype
 
 ---
 
-#### **3\. The HBM Cannibalization (The 3-to-1 Problem)**
+### **4\. The HBM Cannibalization (The 3-to-1 Problem)**
 
-A common question from consumers is: "Why does an AI boom make my laptop's SSD or RAM more expensive? They use different chips".
+A common question from consumers is: "Why does an AI boom make my laptop's SSD or RAM more expensive? They use different chips."
 
-The answer lies in the physics of **High Bandwidth Memory (HBM)**, the specialized memory used in AI accelerators. HBM is physically gluttonous. Producing a single gigabyte of HBM capacity consumes roughly **three times the wafer area** \[cit \- Trendforce via [medium.com](https://medium.com/@Elongated_musk/memory-supercycle-how-ais-hbm-hunger-is-squeezing-dram-and-what-to-own-79c316f89586#:~:text=HBM%20devices%20not,and%20complex%20assembly.)\] of standard consumer/server DDR5 memory.
+The answer lies in the physics of **High Bandwidth Memory (HBM)**, the specialized memory used in AI accelerators. HBM is physically gluttonous. For years, this "3-to-1" penalty was treated as an industry rumor, but on December 18, 2025, Micron explicitly confirmed the math to investors: the dramatic increase in HBM demand creates a **"3-to-1 trade ratio with DDR5"** \[cit-[TrendForce.com](https://www.trendforce.com/news/2025/12/18/news-micron-reveals-three-culprits-behind-memory-crunch-and-why-it-wont-ease-soon/)\].
 
-Because the fab is a zero-sum game, every wafer the Memory Triad allocates to HBM is effectively **three wafers stolen** from the consumer market. They haven't just "shifted focus"; they have cannibalized their own production lines. They are stripping the copper wiring out of the economy class cabin to gold-plate the cockpit.
+Producing a single wafer of HBM consumes the same foundry capacity as three wafers of standard consumer DDR5. Because the fab is a zero-sum game, every wafer the Memory Triad allocates to HBM is effectively **three wafers stolen** from the consumer market. Even worse, Micron warned that this trade ratio "only increases with future generations of HBM" \[cit-TrendForce\]. They haven't just "shifted focus"; they have cannibalized their own production lines. They are stripping the copper wiring out of the economy class cabin to gold-plate the cockpit.
 
-#### **4\. The "Transformer Starts" Blockade (The Hidden Grid Choke-hold)**
+### 5\. The "Transformer Starts" Blockade (The Hidden Grid Choke-hold)
 
 The foreclosure has metastasized from silicon to the physical grid. Hyperscalers are pre-booking "Transformer Starts" and pushing lead times for high-voltage heavy iron to 3-4 years\[cit [nationalinterest.com](https://nationalinterest.org/blog/energy-world/the-little-monopoly-holding-back-the-clean-energy-transition)\]. The output of industrial titans like GE and Siemens has been privatized which obliterates the public sector’s strategic reserve. The spares needed to recover from a hurricane or deep freeze no longer exist because they are currently bolted to the floor of a Northern Virginia server farm. A major grid event today guarantees years of darkness rather than weeks of repair. Replacement hardware is unobtainable as factory capacity is locked in multi-year private contracts. They didn't just buy the power. They bought the physical capacity for disaster recovery.
 
